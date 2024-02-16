@@ -29,7 +29,7 @@ Docker image that contains multiple services for Magento 2.4.3
 # MySQL Native Password Auth
 - Run "ALTER USER 'youruser'@'%' IDENTIFIED WITH mysql_native_password BY 'yourpassword';"
 
-#PHPMyadmin
+# PHPMyadmin
 - Url : http://localhost:8090/
 - Username : root
 - Password : example
